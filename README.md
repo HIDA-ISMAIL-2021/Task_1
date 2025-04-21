@@ -1,5 +1,10 @@
 ## 📌 TASK 1: DATA CLEANING AND PREPROCESSING
 
+📂 **Note:** The `Task_1.xlsx` file contains:
+- The **original dataset**
+- The **cleaned dataset**
+- A summary of the **cleaning steps performed**
+
 ### ✅ CLEANED DATA STEPS:
 
 **STEP 1:** Removed duplicate values using `Data → Remove Duplicates`.  
